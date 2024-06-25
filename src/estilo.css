@@ -13,3 +13,12 @@ body{
     width: 27rem;
     height: 37rem;
 }
+.forma{
+    display: grid;
+    place-content: center;
+    box-sizing: border-box;
+    background-color: ;
+    background-size: cover;
+    height: 100%;
+    
+}
