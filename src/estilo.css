@@ -17,7 +17,7 @@ body{
     display: grid;
     place-content: center;
     box-sizing: border-box;
-    background-color: #1c1c2c;
+    background-color: #24243d;
     background-size: cover;
     height: 100%;   
 }
@@ -75,3 +75,10 @@ a{
     cursor: pointer;
     font-weight: bold;
 }
+
+.bxs-user{
+    display: block;
+    position: absolute;
+    padding: 220px 0 0 335px;
+}
+
