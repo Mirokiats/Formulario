@@ -30,3 +30,13 @@ h1{
     margin-bottom: 75px;
     color: white;
 }
+
+input{
+    background: transparent;
+    width: 18rem;
+    height: 1.5rem;
+    font-size: 1rem;
+    border: 2px solid white;
+    border-radius: 1rem;
+    padding: 5px;
+}
