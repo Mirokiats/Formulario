@@ -40,3 +40,8 @@ input{
     border-radius: 1rem;
     padding: 5px;
 }
+
+::placeholder{
+    color: rgb(120, 116, 119);
+    padding: 4px;
+}
