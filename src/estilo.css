@@ -53,3 +53,15 @@ label{
     font-weight: bold;
 }
 
+button{
+    margin-top: 2rem;
+    width: 19rem;
+    height: 2.4rem;
+    font-weight: bold;
+    border: 2px solid grey;
+    border-radius: 1rem;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.75);
+}
